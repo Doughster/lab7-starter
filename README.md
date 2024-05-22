@@ -2,4 +2,4 @@
 
 Jeffrey Do
 
-https://doughster.github.io/sp24-cse110-lab7/
+https://doughster.github.io/lab7-starter/
